@@ -1,0 +1,326 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+FullName:Ubuntu Light
+MenuName:Ubuntu Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Ubuntu\Ubuntu-Light.ttf
+DataFormat:sfntData
+FileLength:362552
+FileModTime:1292349600
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Ubuntu\UFL.txt
+FileModTime:1292349600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Roboto\LICENSE.txt
+FileModTime:1357668000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Black
+FamilyName:Roboto
+StyleName:Black
+FullName:Roboto Black
+MenuName:Roboto Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Roboto\Roboto-Black.ttf
+DataFormat:sfntData
+FileLength:168060
+FileModTime:1357668000
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Black
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+FullName:Roboto Bold
+MenuName:Roboto
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Roboto\Roboto-Bold.ttf
+DataFormat:sfntData
+FileLength:167336
+FileModTime:1357668000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Light
+FamilyName:Roboto
+StyleName:Light
+FullName:Roboto Light
+MenuName:Roboto Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Roboto\Roboto-Light.ttf
+DataFormat:sfntData
+FileLength:167000
+FileModTime:1357668000
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Light
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Roboto\Roboto-Regular.ttf
+DataFormat:sfntData
+FileLength:168260
+FileModTime:1357668000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+FullName:Raleway Bold
+MenuName:Raleway
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\raleway\Raleway-Bold.ttf
+DataFormat:sfntData
+FileLength:179244
+FileModTime:1678491318
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Raleway Bold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Light
+FamilyName:Raleway
+StyleName:Light
+FullName:Raleway Light
+MenuName:Raleway Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\raleway\Raleway-Light.ttf
+DataFormat:sfntData
+FileLength:182376
+FileModTime:1678491318
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Raleway Light
+NameArray:0,Win,1,Raleway Light
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+FullName:Raleway
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\raleway\Raleway-Regular.ttf
+DataFormat:sfntData
+FileLength:178520
+FileModTime:1678491318
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Raleway
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\raleway\SIL Open Font License.txt
+FileModTime:1678491318
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\OFL.txt
+FileModTime:1321380000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\PlayfairDisplay-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+FileLength:277356
+FileModTime:1321380000
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\PlayfairDisplay-VariableFont_wght.ttf
+DataFormat:sfntData
+FileLength:298268
+FileModTime:1321380000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\README.txt
+FileModTime:1678501542
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Black
+FamilyName:Playfair Display
+StyleName:Black
+FullName:Playfair Display Black
+MenuName:Playfair Display Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\static\PlayfairDisplay-Black.ttf
+DataFormat:sfntData
+FileLength:193036
+FileModTime:1321380000
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display Black
+NameArray:0,Win,16,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Bold
+FamilyName:Playfair Display
+StyleName:Bold
+FullName:Playfair Display Bold
+MenuName:Playfair Display
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\static\PlayfairDisplay-Bold.ttf
+DataFormat:sfntData
+FileLength:193136
+FileModTime:1321380000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\static\PlayfairDisplay-Italic.ttf
+DataFormat:sfntData
+FileLength:177224
+FileModTime:1321380000
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Web Development Shikbe Sobai SSB-528\codding\tinyone\Font\Playfair_Display\static\PlayfairDisplay-Regular.ttf
+DataFormat:sfntData
+FileLength:192812
+FileModTime:1321380000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
